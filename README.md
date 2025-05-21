@@ -2,7 +2,6 @@
 a mini retro console powered by a STM32
 
 ![Platform](https://img.shields.io/badge/Platform-STM32-blue.svg)
-![License](https://img.shields.io/badge/License-MIT-green.svg)
 ![Status](https://img.shields.io/badge/Hardware-Prototyping-yellow.svg)
 
 A DIY portable console powered by a high-performance STM32 MCU (F7/H7), featuring:
